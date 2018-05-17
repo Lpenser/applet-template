@@ -1,1 +1,1 @@
-@import './assets/style/weui.wxss';
+@import './style/weui.wxss';
