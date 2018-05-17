@@ -1,0 +1,21 @@
+{
+  "pages": [
+
+    "pages/index/index"
+      
+
+  ],
+  "tabBar": {
+    "color": "#ffffff",
+    "selectedColor": "#ffffff",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff"
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "#ffffff",
+    "onPullDownRefresh": true
+  }
+}
